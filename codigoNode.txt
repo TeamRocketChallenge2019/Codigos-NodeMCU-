@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
   
 //----------- Enter you Wi-Fi Details---------//
-char ssid[] = "00_NovaRede"; //SSID
-char pass[] = "0195501955"; // Password
+char ssid[] = "RedeWifi"; //SSID
+char pass[] = "SenhaWiFi"; // Password
 //-------------------------------------------//
 
 const int trigger = 16;
