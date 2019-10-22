@@ -11,7 +11,7 @@ const int echo = 5;
 long T;
 float distanceCM;
 WiFiClient  client;
-const int altura = 13;
+const float altura = 13;
 
 unsigned long myChannelField = 885142; // Channel ID
 const int ChannelField = 1; // Which channel to write data
